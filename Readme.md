@@ -17,8 +17,8 @@ This project is a Neo4j Query Bot that leverages the OpenAI API to process natur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/neo4j-query-bot.git
-    cd neo4j-query-bot
+    git clone [https://github.com/your-repo/neo4j-query-bot.git](https://github.com/suryarathee/RAG_Query_bot.git)
+    cd RAG_Query_bot.git
     ```
 
 2. Install dependencies:
