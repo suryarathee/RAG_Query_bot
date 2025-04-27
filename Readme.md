@@ -52,15 +52,7 @@ This project is a Neo4j Query Bot that leverages the OpenAI API to process natur
 - Input: "Find all movies directed by Christopher Nolan."
 - Output: A list of movies directed by Christopher Nolan from the Neo4j database.
 
-## Project Structure
-```
-neo4j-query-bot/
-├── main.py          # Entry point for the bot
-├── query_processor/ # Handles query translation and execution
-├── requirements.txt # Python dependencies
-├── README.md        # Project documentation
-└── .env             # Environment variables
-```
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
